@@ -9,8 +9,7 @@ I'm Zanghyeoun Shim, currently pursuing a Bachelor's in Electrical and Computer 
 
 
 ## 🛠️ Skills & Technologies
-- Embedded Systems: PyTorch, TensorFlow, NVIDIA Deepstream, TensorRT, HuggingFace, ONNX, Tensorflow Lite
-- Hardware: 
+- Embedded Systems: STM32CubeIDE, Arduino, Raspberry Pi
 - Programming: C/C++, Python
 - Tools & Libraries: 
 
