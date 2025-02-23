@@ -1,16 +1,24 @@
-## Hi there 👋
+# Zanghyeoun Shim - Firmware Engineer 
 
-<!--
-**coolest-tomato/coolest-tomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Resume](https://1drv.ms/b/s!Al6hwrbEx32GgQEdmkff4GIbzFMx?e=9NYx2X)
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+I'm Zanghyeoun Shim, currently pursuing a Bachelor's in Electrical and Computer Engineering at the University of Colorado at Boulder. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+
+## 🛠️ Skills & Technologies
+- Embedded Systems: PyTorch, TensorFlow, NVIDIA Deepstream, TensorRT, HuggingFace, ONNX, Tensorflow Lite
+- Hardware: 
+- Programming: C/C++, Python
+- Tools & Libraries: 
+
+## 🌟 Projects
+
+## 📫 Get in Touch
+
+- [LinkedIn](www.linkedin.com/in/zshim0322)
+- [Instagram](https://www.instagram.com/heart_hyeoun/)
+- [Blog](https://coolest-tomato.github.io/)
+- Email: zash8158@colorado.edu
