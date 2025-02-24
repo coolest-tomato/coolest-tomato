@@ -1,4 +1,4 @@
-# Zanghyeoun Shim - Firmware Engineer 
+# Zanghyeoun Shim - Engineer 
 
 ### [Resume](https://1drv.ms/b/s!Al6hwrbEx32GgQEdmkff4GIbzFMx?e=9NYx2X)
 
