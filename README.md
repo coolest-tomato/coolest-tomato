@@ -9,7 +9,7 @@ I'm Zanghyeoun Shim, currently pursuing a Bachelor's in Electrical and Computer 
 
 
 ## 🛠️ Skills & Technologies
-- Embedded Systems: STM32CubeIDE, Arduino, Raspberry Pi
+- Embedded Systems: ARM Cortex-M4, STM32CubeIDE, Arduino
 - Programming: C/C++, Python
 - Tools & Libraries: 
 
