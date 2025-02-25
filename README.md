@@ -17,7 +17,7 @@ I'm Zanghyeoun Shim, currently pursuing a Bachelor's in Electrical and Computer 
 
 ## 📫 Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/zshim0322)
+- [LinkedIn](https://www.linkedin.com/in/zshim0322/)
 - [Instagram](https://www.instagram.com/heart_hyeoun/)
 - [Blog](https://coolest-tomato.github.io/)
 - Email: zash8158@colorado.edu
